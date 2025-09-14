@@ -1,0 +1,3 @@
+custom: ["https://wa.me/255750453819?text=I%20want%20to%20support%20Moriah%20Complexx%20via%20M-Pesa"]
+<a href="https://wa.me/255750453819?text=I%20want%20to%20support%20Moriah%20Complexx%20via%20M-Pesa" class="sponsor-btn">💚 Support Us via M-Pesa</a>
+.sponsor-btn { display: inline-block;margin-top: 15px;padding: 12px 18px;background: #25D366; /* WhatsApp green */color: white;text-decoration: none;border-radius: 8px;font-weight: bold;}.sponsor-btn:hover {background: #128C7E;}
